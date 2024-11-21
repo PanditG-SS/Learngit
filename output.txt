@@ -1,0 +1,7 @@
+Hello shobhitsharma
+Today is Thu 21 Nov 2024 11:47:43 IST
+The path is 
+ /Users/shobhitsharma/anaconda3/bin:/Users/shobhitsharma/anaconda3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Users/shobhitsharma/Applications/iTerm.app/Contents/Resources/utilities
+
+ OK BYE!
+
